@@ -1,0 +1,5 @@
+Visited States List!
+*North Carolina
+*California
+*Missouri	(ADDED USING .write())
+*South Carolina	(ADDED USING .write())
